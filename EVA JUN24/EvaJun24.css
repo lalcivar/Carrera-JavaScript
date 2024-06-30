@@ -1,0 +1,102 @@
+
+.body{
+
+    border: 3px solid red;
+    padding-top:50px;
+    padding-bottom:50px;
+    
+}
+
+.form{
+
+    border: 6px solid black;
+    width:40%;
+    margin: 0 auto;
+    background-color:rgb(219, 215, 215)
+
+}
+
+.div1{
+    background-color:red;
+    width:auto;
+    height:10px;
+    margin: 0 auto;
+  
+}
+
+.div2{
+    background-color:white;
+    text-align: center;
+    width:auto;
+    margin: 0 auto;
+    padding-top:15px;
+    padding-bottom:15px;
+  
+  }
+
+  .div3{
+    background-color:red;
+    width:auto;
+    height:10px;
+    margin: 0 auto;
+  
+  }
+
+  .div4{
+    background-color:white;
+     width:auto;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:15px;
+  
+  }
+  
+  
+  .div5{
+    background-color:white;
+    width:auto;
+    padding-top:15px;
+    padding-left:15px;
+    padding-bottom:15px;
+  
+  }
+
+  .div6{
+    background-color:red;
+    width:auto;
+    height:10px;
+    margin: 0 auto;
+  
+  }
+  
+  .div7{
+    background-color:white;
+    padding-top:15px;
+    padding-bottom:15px;
+    text-align:center;
+  
+  }
+
+  .div8{
+    background-color:red;
+    width:auto;
+    height:10px;
+    margin: 0 auto;
+  
+  }
+
+  .div9{
+    background-color:white;
+    padding-top:15px;
+    padding-bottom:15px;
+    text-align:center;
+  
+  }
+
+  .div10{
+    background-color:red;
+    width:auto;
+    height:10px;
+    margin: 0 auto;
+
+  } 
